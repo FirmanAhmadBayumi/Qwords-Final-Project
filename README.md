@@ -1,5 +1,12 @@
 # CodeIgniter 4 Application Starter
 
+## How to run this project in tour local
+1. Open your text editor such as Visual Studio Code.
+2. Open the terminal and navigate to the path/folder where you want to save this project.
+3. Clone the project by executing the command: git clone https://github.com/FirmanAhmadBayumi/Qwords-Final-Project.git
+4. Once the cloning is successful, run the command: php spark serve.
+5. The project is now successfully running.
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
